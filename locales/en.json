@@ -1,0 +1,29 @@
+
+{
+  "appName": "iBoi",
+  "appSubtitle": "Your AI-Powered Mystic Guide",
+  "footerText": "© {year} iBoi - An East-West AI divination product by PhapNeo. All destinies are subject to change.",
+  "unlockDestiny": "Unlock Your Destiny",
+  "enterDetails": "Enter your details to receive a mystical reading from iBoi.",
+  "yourNameLabel": "Your Name",
+  "yourNamePlaceholder": "e.g., Alex Ryder",
+  "dobLabel": "Date of Birth",
+  "revealDestiny": "Reveal My Destiny",
+  "startNewReading": "Start a New Reading",
+  "errorNameDob": "Please enter your name and date of birth.",
+  "getDailyFortune": "Get Today's Fortune",
+  "dailyFortuneTitle": "Your Fortune for Today",
+  "close": "Close",
+  "chatTitle": "iBoi Mystic Chat",
+  "chatGreeting": "Greetings! Ask me anything about your path or the cosmos.",
+  "chatPlaceholder": "Type your message...",
+  "googleSearch": "Google Search",
+  "loadingMessages": [
+    "Consulting the cosmos...",
+    "Aligning the stars...",
+    "Shuffling the tarot deck...",
+    "Calculating your life path number...",
+    "Peering into the astral plane...",
+    "Decoding celestial whispers..."
+  ]
+}

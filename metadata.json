@@ -1,0 +1,7 @@
+{
+  "name": "iBoi: AI Mystic",
+  "description": "An innovative fortune-telling application that combines Eastern and Western divination principles (astrology, numerology, tarot) powered by the Gemini API. Get personalized readings, chat with an AI mystic, and explore your destiny.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

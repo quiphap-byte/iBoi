@@ -1,0 +1,29 @@
+
+{
+  "appName": "iBoi",
+  "appSubtitle": "Chuyên gia thần bí AI của bạn",
+  "footerText": "© {year} iBoi - Một sản phẩm AI bói toán kết hợp Đông - Tây của PhapNeo. Mọi vận mệnh đều có thể thay đổi.",
+  "unlockDestiny": "Mở khóa vận mệnh của bạn",
+  "enterDetails": "Nhập thông tin của bạn để nhận một bài giải huyền bí từ iBoi.",
+  "yourNameLabel": "Tên của bạn",
+  "yourNamePlaceholder": "ví dụ: Alex Ryder",
+  "dobLabel": "Ngày sinh",
+  "revealDestiny": "Tiết lộ vận mệnh của tôi",
+  "startNewReading": "Bắt đầu một lượt xem mới",
+  "errorNameDob": "Vui lòng nhập tên và ngày sinh của bạn.",
+  "getDailyFortune": "Xem bói hôm nay",
+  "dailyFortuneTitle": "Vận mệnh hôm nay của bạn",
+  "close": "Đóng",
+  "chatTitle": "Trò chuyện Thần bí iBoi",
+  "chatGreeting": "Xin chào! Hãy hỏi tôi bất cứ điều gì về con đường của bạn hoặc vũ trụ.",
+  "chatPlaceholder": "Nhập tin nhắn của bạn...",
+  "googleSearch": "Google Search",
+  "loadingMessages": [
+    "Đang tham vấn vũ trụ...",
+    "Đang sắp xếp các vì sao...",
+    "Đang xào bộ bài tarot...",
+    "Đang tính toán con số đường đời của bạn...",
+    "Đang nhìn vào cõi linh hồn...",
+    "Đang giải mã những lời thì thầm của trời đất..."
+  ]
+}
